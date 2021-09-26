@@ -1,0 +1,18 @@
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    border: 3px solid #2a2b2c;
+ 
+}
+.actorInfo{
+    text-align: left !important;
+}
+.actorInfo p{
+    margin-bottom: 2px !important;
+}
+.infoTitle{
+    font-weight: bold;
+    font-size: 17px;
+}

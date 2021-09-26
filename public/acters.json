@@ -1,0 +1,146 @@
+[
+    {
+        "key":"GT1",
+        "name":"Emilia Clarke",
+        "age":34,
+        "roleName":"Daenerys Targaryen",
+        "dateOfBirth":"born 23 October 1986",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":120000
+    },
+
+    {
+        "key":"GT2",
+        "name":"Sophie Turner",
+        "age":25,
+        "roleName":"Sansa Stark",
+        "dateOfBirth":"February 21, 1996",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/sansa-stark-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":150000
+    },
+
+    {
+        "key":"GT3",
+        "name":"Kit Harington",
+        "age":34,
+        "roleName":"Jon Snow",
+        "dateOfBirth":"December 26, 1986",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/john-snow-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":120000
+    },
+
+
+    {
+        "key":"GT4",
+        "name":"Maisie Williams",
+        "age":24,
+        "roleName":"Arya Stark",
+        "dateOfBirth":"April 15, 1997",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/arya-stark-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":300000
+    },
+
+
+    {
+        "key":"GT5",
+        "name":"Jason Momoa",
+        "age":42,
+        "roleName":"Khal Drogo",
+        "dateOfBirth":"August 1, 1979",
+        "nationaliy":"American",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/khal-drogo-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":170000
+    },
+    {
+        "key":"GT6",
+        "name":"Peter Dinklage",
+        "age":52,
+        "roleName":"Tyrion Lannister",
+        "dateOfBirth":"June 11, 1969",
+        "nationaliy":"American",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/tyrion-lannister-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":180000
+    },
+
+
+    {
+        "key":"GT7",
+        "name":"Richard Madden",
+        "age":35,
+        "roleName":"Robb Stark",
+        "dateOfBirth":"June 18, 1986",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/robert-stark-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":500000
+    },
+
+
+    {
+        "key":"GT8",
+        "name":"Lena Headey",
+        "age":47,
+        "roleName":"Decard Shaw",
+        "dateOfBirth":" October 3, 1973",
+        "nationaliy":"Bermuda",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/cersei-lannister-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":900000
+    },
+
+
+    {"key":"GT9",
+        "name":"Sean Bean",
+        "age":62,
+        "roleName":"Eddard “Ned” Stark",
+        "dateOfBirth":"April 17, 1959",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/eddard-ned-stark-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":600000
+    },
+
+
+    {
+        "key":"GT10",
+        "name":"Rose Leslie",
+        "age":34,
+        "roleName":"Ygritte",
+        "dateOfBirth":"February 9, 1987",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/ygritte-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":400000
+    },
+    {
+        "key":"GT11",
+        "name":"Nathalie Emmanuel",
+        "age":32,
+        "roleName":"Missandei",
+        "dateOfBirth":"March 2, 1989",
+        "nationaliy":"British",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/missandei-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":160000
+    },
+    {
+        "key":"GT12",
+        "name":"Nikolaj Coster-Waldau",
+        "age":51,
+        "roleName":"Jaime Lannister",
+        "dateOfBirth":"July 27, 197",
+        "nationaliy":"Denmark",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/jamie-lannister-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":700000
+    },
+
+    {
+        "key":"GT13",
+        "name":"Aidan Gillen",
+        "age":53,
+        "roleName":"Petyr Baelish ",
+        "dateOfBirth":"April 24, 1968",
+        "nationaliy":" Ireland",
+        "img":"https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/petyr-baelish-512x512.jpg/_jcr_content/renditions/cq5dam.web.260.260.jpeg",
+        "CastingCost":600000
+    }
+]

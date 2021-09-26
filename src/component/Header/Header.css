@@ -1,0 +1,28 @@
+.header-container{
+    margin-bottom: 50px;
+}
+.header-content{
+     height: 150px;
+
+
+}
+
+.image{
+    background: url('https://etgeekera.files.wordpress.com/2014/04/game-of-thrones-header.jpg?w=630') no-repeat ; 
+    background-size: cover;
+}
+
+.header-title{
+    color: rgb(247, 244, 244);
+    padding: 20px;
+}
+.header-quote{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+  
+}
+.movie-budget{
+    background-color: rgba(43, 43, 43, 0.979);
+    color: white;
+    
+}
