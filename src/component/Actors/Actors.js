@@ -11,7 +11,7 @@ const Actors = (props) => {
 
     return (
         <div className="col ">
-            <div className="text-center actor-card card h-100 shadow-sm">
+            <div className="text-center actor-card card h-100 shadow">
                 <div className="mt-2">
                     <img src={img} className="" alt="" />
                 </div>
