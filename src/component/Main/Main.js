@@ -6,6 +6,7 @@ import './Main.css';
 const Main = () => {
     const [actors, setActors] = useState([]);
     const [cart, setCart] = useState([])
+    
     useEffect(() => {
         fetch('./acters.json')
             .then(res => res.json())

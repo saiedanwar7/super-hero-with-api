@@ -5,11 +5,13 @@ import './Actors.css';
 
 
 const Actors = (props) => {
-    // console.log(props);
+    
     const cartIcon = <FontAwesomeIcon icon={faUserPlus} />
     const { name, img, nationaliy, age, roleName, CastingCost, dateOfBirth } = props.actor;
 
     return (
+    //  ------- cart --------
+
         <div className="col ">
             <div className="text-center actor-card card h-100 shadow">
                 <div className="mt-2">
@@ -25,6 +27,8 @@ const Actors = (props) => {
                         <p className="card-text"><span className="infoTitle">Casting Cost</span> : ${CastingCost}</p>
                      
                     </div>
+
+               {/* button  */}
                
                     <div className="mt-auto ">
                         <button onClick={() => props.handleAddedActors(props.actor)} className="btn btn-dark px-3 fw-bold">{cartIcon} Add To Select</button>

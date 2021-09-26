@@ -3,6 +3,9 @@ import './Header.css'
 
 const Header = () => {
     return (
+        
+        // -------- header content ---------
+
         <div className="header-container text-center image">
             <div className="header-content">
             <h1 className="header-title">Game Of Thrones </h1>
